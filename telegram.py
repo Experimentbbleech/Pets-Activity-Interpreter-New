@@ -9,7 +9,7 @@ telegram_dir = os.path.join(data_dir, 'telegram')
 if not os.path.exists(telegram_dir):
     os.mkdir(telegram_dir)
 
-TOKEN = "1899424187:AAFZ9OAVDhJWGIfB3eAS1hV3XJ7Coi7l3KY"
+TOKEN = "1927349448:AAHcHqj-pTqG38eI0b2s1lB1k0W2_c_zl4A"
 bot = telebot.TeleBot(TOKEN)
 
 
